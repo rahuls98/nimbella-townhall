@@ -1,0 +1,31 @@
+[
+  {
+    "apihost": "https://apigcp.nimbella.io",
+    "namespace": "team0240-9wzdkuu4xkv",
+    "packageVersions": {
+      "atlas_interactions": {
+        "version": "0.0.41",
+        "digest": "1e8a70e742aeef6727e48ee503d3a4c964e13f51321b61847a92f4d9118dbf30"
+      }
+    },
+    "actionVersions": {
+      "atlas_interactions/getIssues": {
+        "version": "0.0.4",
+        "digest": "04e45d882990de806cb6c6aec84992b1b18f461ebfd8270e87617d355549decc"
+      },
+      "atlas_interactions/hello": {
+        "version": "0.0.41",
+        "digest": "ae50854b2ace708a60eae683c763cc3e7e739af1467e4a08e67613fb855efedd"
+      },
+      "atlas_interactions/login": {
+        "version": "0.0.33",
+        "digest": "eae09c478f8b67b768f9ac9a1e4c2b9c6b2eb9eb7e0348c07754f292801db826"
+      },
+      "atlas_interactions/submitIssue": {
+        "version": "0.0.29",
+        "digest": "75808fe772ed0e26bd9a4eee3737e9b885283e6c35a7ccd1a7eaa66005c3b03c"
+      }
+    },
+    "webHashes": {}
+  }
+]
