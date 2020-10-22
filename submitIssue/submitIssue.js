@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const URI = "mongodb+srv://townhallAdmin:townhallAdmin123@cluster0.erhvs.mongodb.net/TownhallDB?retryWrites=true&w=majority"
+const URI = "" //MongoDB database connection
 
 const IssueSchema = new mongoose.Schema({
     _id: mongoose.Schema.Types.ObjectId,
