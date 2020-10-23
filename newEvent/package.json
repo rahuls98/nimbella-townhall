@@ -1,0 +1,10 @@
+{
+  "name": "atlas_interactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newEvent.js",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.9"
+  }
+}
