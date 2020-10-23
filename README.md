@@ -9,6 +9,9 @@ Place folders within template and deploy the project:
 project_name/packages/login
 project_name/packages/submitIssue
 project_name/packages/getIssues
+.
+.
+.
 ```
 
 Invoking action with the cli:
