@@ -1,3 +1,7 @@
+## Project Frontend
+Find the frontend code here : https://github.com/krishnakeshan/townhall
+
+## Setup
 Use the "hello world" template to start with:
 ```
 > nim project create project_name
